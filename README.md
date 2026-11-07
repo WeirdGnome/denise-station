@@ -3,7 +3,7 @@
 **A cover-grid launcher for Amiga games on Linux.** It keeps a browsable library of your WHDLoad archives and disk
 images and starts them in [Amiberry](https://github.com/BlitterStudio/amiberry), which it downloads, updates and
 configures for you.
-
+![Alt text](screenshot.png)
 Denise Station is a clean-room program inspired by the idea of the iGame launcher. It is written from scratch in
 Python and GTK 3; no code, graphics or data from the original AmigaOS program are used.
 
