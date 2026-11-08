@@ -1,11 +1,13 @@
 # Denise Station
 
+![Alt text](/Wklejony obraz (2).png)
+
 **A cover-grid launcher for Amiga games on Linux.** It keeps a browsable library of your WHDLoad archives and disk
 images and starts them in [Amiberry](https://github.com/BlitterStudio/amiberry), which it downloads, updates and
 configures for you.
-![Alt text](screenshot.png)
+
 Denise Station is a clean-room program inspired by the idea of the iGame launcher. It is written from scratch in
-Python and GTK 3; no code, graphics or data from the original AmigaOS program are used.
+Python, GTK 4 and libadwaita; no code, graphics or data from the original AmigaOS program are used.
 
 <!-- Add screenshots here: docs/screenshot-grid.png, docs/screenshot-detail.png -->
 
@@ -31,7 +33,7 @@ Python and GTK 3; no code, graphics or data from the original AmigaOS program ar
 
 ## Features
 
-- **Cover grid or list.** Covers load lazily, so libraries with thousands of games stay fast.
+- **Cover grid.** Covers load lazily, so libraries with thousands of games stay fast.
 - **Library scanner** for WHDLoad `.lha` archives and disk or CD images (`adf adz ipf dms hdf iso cue chd`).
 - **Readable titles** derived from file names (`Turrican3_v1.6_Image_2633.lha` becomes "Turrican3 v1.6 Image 2633"),
   editable at any time.
@@ -42,7 +44,7 @@ Python and GTK 3; no code, graphics or data from the original AmigaOS program ar
 - **Savestates:** per-game list of Amiberry savestates (date and time), double-click to start from a state,
   right-click to rename or delete.
 - **Info scraping** from the Open Amiga Game Database with Libretro thumbnails as a fallback: year, developer,
-  publisher, genre, rating, description, box cover, back cover and manual (no account or API key needed).
+  publisher, genre, rating, description, box cover (no account or API key needed).
 - **WHDLoad download tool** with CRC32 verification, filters (system, extras, language), update detection and curated
   lists.
 - **Self-managed Amiberry:** downloads the latest AppImage, keeps it in a hidden portable folder and checks for newer
@@ -56,8 +58,8 @@ Python and GTK 3; no code, graphics or data from the original AmigaOS program ar
 
 ## Requirements
 
-- Linux with a GTK 3 desktop (developed and tested on Linux Mint XFCE)
-- Python 3.8 or newer and PyGObject (GTK 3 bindings)
+- Linux with GNOME or any desktop that can run GTK 4 / libadwaita applications (Wayland or X11)
+- Python 3.8 or newer, PyGObject, GTK 4 (4.12+) and libadwaita (1.4+, GNOME 45 or newer)
 - glibc 2.35 or newer for the Amiberry AppImage (FUSE is optional; the AppImage unpacks itself if it is missing)
 - Kickstart ROMs that you own (Denise Station does not include or download them)
 
@@ -65,10 +67,10 @@ Nothing else is needed: Denise Station uses only the Python standard library bes
 
 ## Installation
 
-Install the GTK 3 bindings with your package manager. On Debian, Ubuntu and Linux Mint:
+Install the GTK 4 and libadwaita bindings with your package manager. On Debian, Ubuntu and Linux Mint:
 
 ```sh
-sudo apt install python3-gi gir1.2-gtk-3.0
+sudo apt install python3-gi gir1.2-gtk-4.0 gir1.2-adw-1
 ```
 
 Then install the program for the current user (no root needed):
@@ -125,6 +127,16 @@ While a game runs in Amiberry, Denise Station sets these keys (only when they ar
 **F11** toggles full screen / window and **Esc** quits the emulator. **F12** opens Amiberry's own menu. The default
 joystick ports are mouse in port 0 and keyboard in port 1. The full list is in the menu under
 **Keyboard shortcuts...**.
+
+## Desktop shortcuts
+
+Right-click a game, demo or magazine and choose **Export .desktop shortcut...**. The launcher is added at once to your
+application menu (`~/.local/share/applications/denise-<title>.desktop`); copy it to the Desktop if you want an icon
+there. Its icon is the game's cover, or the "NO COVER" picture of its category when there is none. Starting it runs
+`denise-station --launch <file>`, which opens the game directly in Amiberry without Denise Station's window, using the
+current settings (shader, full window, the game's own arguments). If Amiberry or the WHDLoad boot files are missing it
+shows a notification instead. If the game file is moved, export the shortcut again (it overwrites the old one).
+Once a shortcut exists, the same menu entry reads **Remove .desktop shortcut** and deletes it.
 
 ## Categories from folders
 
@@ -197,7 +209,7 @@ and for having the right to use what you download.
 
 ## Scraping game info
 
-Select a game and press **Scrape info**, or use the menu, **Scrape all missing info**. Sources, in order:
+Select a game and press **Scrape** in the right-click menu, or use the menu, **Scrape all missing info**. Sources, in order:
 
 1. **[Open Amiga Game Database](https://openretro.org)** (OAGD): year, developer, publisher, genre, rating,
    description and the box cover. OAGD has no public API, so its public pages are read; a redesign of the site could
@@ -205,8 +217,6 @@ Select a game and press **Scrape info**, or use the menu, **Scrape all missing i
 2. **Libretro thumbnails** (`thumbnails.libretro.com`): box cover fallback, matched by a fuzzy title comparison.
 
 Notes:
-- Back cover and manual (PDF) are saved to `~/.local/share/denise-station/extras/<game id>/` when **Extras** is on
-  (Settings, Scraping).
 - Only empty fields are filled, unless "Overwrite existing info" is ticked. A title you edited is searched exactly as
   typed.
 - Requests are paced (about 1.5 s apart). Both sources are free community services, so please keep it that way.
@@ -238,7 +248,7 @@ python3 tools/gemini_import.py --apply        # writes (after backing up library
 |---|---|
 | Games, Amiberry, ROMs, savestates | `~/Games/Denise` (the game folder is fixed; Amiberry is in the hidden `.amiberry`) |
 | Library (titles, metadata, favourites, play counts) | `~/.local/share/denise-station/library.db` |
-| Covers, extras, logs | `~/.local/share/denise-station/` |
+| Covers, logs | `~/.local/share/denise-station/` |
 | Settings | `~/.config/denise-station/settings.json` |
 | Program files (after `install.sh`) | `~/.local/share/denise-station-app` |
 
@@ -246,6 +256,10 @@ The library is stored in `~/.local/share`, not in `~/.config`. To start over com
 `~/.local/share/denise-station/` (this also removes favourites and play counts).
 
 ## Troubleshooting
+
+- **The window freezes or scrolls badly.** Start it with `denise-station --debug` (or `DENISE_DEBUG=1`), reproduce the
+  problem and send `~/.local/share/denise-station/debug.log`. It lists slow steps (over 20 ms), main-loop stalls
+  (over 250 ms) and, when the window is stuck for 1.5 s, the Python stack at that moment.
 
 - **A game starts and closes at once.** Amiberry has no ROM and fell back to a substitute. Import your Kickstart ROMs
   and run the path scan (Play, First-run setup, **Rescan ROMs**) once.
@@ -280,7 +294,7 @@ Texts live in `locale/<code>.po` (plain gettext format, read at runtime, no comp
 ## Development
 
 ```
-denise_station.py        GTK 3 interface (main window, dialogs, menus)
+denise_station.py        GTK 4 + libadwaita interface (main window, dialogs, menus)
 setup_wizard.py          first-run wizard
 denise_core.py           library database, scanner, Amiberry AppImage handling, command builder (no GUI code)
 denise_retroplay.py      Retroplay pack logic: listing, DAT files, filters, updates
