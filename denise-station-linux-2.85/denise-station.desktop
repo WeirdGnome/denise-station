@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Denise Station
-Comment=Amiga game launcher for Amiberry
-Exec=@EXEC@
-Icon=denise-station
-Terminal=false
-Categories=Game;Emulator;
-StartupWMClass=local.denisestation.App
