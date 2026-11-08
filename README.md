@@ -1,6 +1,6 @@
 # Denise Station
 
-![Alt text](Wklejony obraz (2).png?raw=true)
+![Alt text](denise-station.png?raw=true)
 
 **A cover-grid launcher for Amiga games on Linux.** It keeps a browsable library of your WHDLoad archives and disk
 images and starts them in [Amiberry](https://github.com/BlitterStudio/amiberry), which it downloads, updates and
