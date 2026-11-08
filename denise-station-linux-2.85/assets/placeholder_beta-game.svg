@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="640" viewBox="0 0 480 640">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#02140a"/><stop offset=".5" stop-color="#0a4d26"/><stop offset="1" stop-color="#25c65a"/></linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#efff7a"/><stop offset="1" stop-color="#2ee86a"/></linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a0a3d"/><stop offset="1" stop-color="#07031a"/>
+    </linearGradient>
+    <clipPath id="sunclip"><circle cx="240" cy="330" r="110"/></clipPath>
+  </defs>
+  <rect width="480" height="640" fill="url(#sky)"/>
+  <g fill="#fff">
+    <rect x="40" y="120" width="3" height="3"/><rect x="95" y="180" width="2" height="2"/><rect x="150" y="90" width="3" height="3"/>
+    <rect x="210" y="150" width="2" height="2"/><rect x="300" y="105" width="3" height="3"/><rect x="360" y="170" width="2" height="2"/>
+    <rect x="420" y="130" width="3" height="3"/><rect x="450" y="215" width="2" height="2"/><rect x="60" y="250" width="2" height="2"/>
+    <rect x="395" y="260" width="3" height="3"/><rect x="25" y="200" width="2" height="2"/><rect x="270" y="70" width="2" height="2"/>
+  </g>
+  <g clip-path="url(#sunclip)">
+    <rect x="120" y="220" width="240" height="220" fill="url(#sun)"/>
+    <g fill="#0a4d26">
+      <rect x="120" y="340" width="240" height="5"/><rect x="120" y="362" width="240" height="8"/>
+      <rect x="120" y="386" width="240" height="11"/><rect x="120" y="412" width="240" height="14"/>
+    </g>
+  </g>
+  <rect x="0" y="400" width="480" height="240" fill="url(#ground)"/>
+  <g stroke="#9dff4d" stroke-width="2" fill="none" opacity=".9">
+    <line x1="0" y1="400" x2="480" y2="400"/>
+    <line x1="0" y1="418" x2="480" y2="418"/><line x1="0" y1="444" x2="480" y2="444"/>
+    <line x1="0" y1="480" x2="480" y2="480"/><line x1="0" y1="530" x2="480" y2="530"/>
+    <line x1="0" y1="600" x2="480" y2="600"/>
+    <line x1="240" y1="400" x2="240" y2="640"/>
+    <line x1="240" y1="400" x2="120" y2="640"/><line x1="240" y1="400" x2="0" y2="640"/>
+    <line x1="240" y1="400" x2="-120" y2="640"/><line x1="240" y1="400" x2="360" y2="640"/>
+    <line x1="240" y1="400" x2="480" y2="640"/><line x1="240" y1="400" x2="600" y2="640"/>
+  </g>
+  <rect x="30" y="30" width="420" height="580" fill="none" stroke="#e8ff6a" stroke-width="4"/>
+  <rect x="40" y="40" width="400" height="560" fill="none" stroke="#2ee86a" stroke-width="2"/>
+  <text x="240" y="92" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-weight="bold"
+        font-size="22" letter-spacing="6" fill="#e8ff6a">DENISE STATION</text>
+  <text x="240" y="548" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-weight="bold"
+        font-size="52" letter-spacing="4" fill="#fff" stroke="#07031a" stroke-width="6" paint-order="stroke">NO COVER</text>
+  <text x="240" y="580" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="18"
+        letter-spacing="4" fill="#e8ff6a">UNRELEASED</text>
+  <text x="240" y="150" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-weight="bold"
+        font-size="40" letter-spacing="5" fill="#fff" stroke="#07031a" stroke-width="6" paint-order="stroke">BETA GAME</text>
+</svg>

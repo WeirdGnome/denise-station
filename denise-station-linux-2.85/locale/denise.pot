@@ -1,0 +1,1283 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: denise_station.py:285
+msgid "Amiberry: start in full window mode"
+msgstr ""
+
+#: denise_station.py:293
+msgid "Pick a random game (Ctrl+R)"
+msgstr ""
+
+#: denise_station.py:297
+msgid "Rescan game folders (F5)"
+msgstr ""
+
+#: denise_station.py:984
+msgid "The games stay in the library, and their play counts are kept."
+msgstr ""
+
+#: denise_station.py:985
+msgid "Cancel"
+msgstr ""
+
+#: denise_station.py:985
+msgid "Clear"
+msgstr ""
+
+#: denise_station.py:1118
+msgid "Save"
+msgstr ""
+
+#: denise_station.py:1141
+msgid "Magazine-style score in percent, shown under the cover. 0 = no score."
+msgstr ""
+
+#: denise_station.py:1203
+msgid "Open"
+msgstr ""
+
+#: denise_station.py:1205
+msgid "Images"
+msgstr ""
+
+#: denise_station.py:1348
+msgid "Import"
+msgstr ""
+
+#: denise_station.py:1442
+msgid "Scanning…"
+msgstr ""
+
+#: denise_station.py:1471
+msgid "The Open Amiga Game Database and Libretro could not be reached. Check your internet connection and try again later."
+msgstr ""
+
+#: denise_station.py:1507
+msgid "Value"
+msgstr ""
+
+#: denise_station.py:1514
+msgid "Add"
+msgstr ""
+
+#: denise_station.py:1515
+msgid "Delete"
+msgstr ""
+
+#: denise_station.py:1614
+msgid "Rename…"
+msgstr ""
+
+#: denise_station.py:1662
+msgid "Use selected"
+msgstr ""
+
+#: denise_station.py:1669
+msgid "Search"
+msgstr ""
+
+#: denise_station.py:1743
+msgid "Downloading the chosen cover…"
+msgstr ""
+
+#: denise_station.py:1780
+msgid "Choose a file with descriptions"
+msgstr ""
+
+#: denise_station.py:1795
+msgid "Descriptions fetched from the database or typed by you are kept when you choose “Only empty”."
+msgstr ""
+
+#: denise_station.py:1797
+msgid "Only empty"
+msgstr ""
+
+#: denise_station.py:1798
+msgid "Replace all"
+msgstr ""
+
+#: denise_station.py:1937
+msgid "Scraping stopped: {ok} updated, {none} not found, {err} failed."
+msgstr ""
+
+#: denise_station.py:1938
+msgid "Scraping finished: {ok} updated, {none} not found, {err} failed."
+msgstr ""
+
+#: denise_station.py:1949
+msgid "Save and scan"
+msgstr ""
+
+#: denise_station.py:1971
+msgid "Library"
+msgstr ""
+
+#: denise_station.py:1981
+msgid "(leave as in Amiberry)"
+msgstr ""
+
+#: denise_station.py:1985
+msgid "Written to amiberry.conf as shader=… when a game starts."
+msgstr ""
+
+#: denise_station.py:1989
+msgid "Games in <game folder>/Platform/ get the category \"Platform\"; games directly in the game folder keep their own genre."
+msgstr ""
+
+#: denise_station.py:2011
+msgid "Installs Amiberry (AppImage) in a hidden .amiberry folder inside your first game folder."
+msgstr ""
+
+#: denise_station.py:2019
+msgid "Copies the ROM files (and rom.key) from a folder, e.g. Amiga Forever's Shared/rom, into Amiberry's roms folder."
+msgstr ""
+
+#: denise_station.py:2032
+msgid "Scraping"
+msgstr ""
+
+#: denise_station.py:2075
+msgid "General"
+msgstr ""
+
+#: denise_station.py:2077
+msgid "Automatic (system language)"
+msgstr ""
+
+#: denise_station.py:2082
+msgid "Automatic (follow the system)"
+msgstr ""
+
+#: denise_station.py:2083
+msgid "Light"
+msgstr ""
+
+#: denise_station.py:2084
+msgid "Dark"
+msgstr ""
+
+#: denise_station.py:2152
+msgid "Close"
+msgstr ""
+
+#: denise_station.py:2176
+msgid "A clean-room Amiga game launcher that starts games in Amiberry (AppImage)."
+msgstr ""
+
+#: denise_station.py:2181
+msgid "Amiberry website"
+msgstr ""
+
+#: denise_station.py:2182
+msgid "Buy Amiga Forever"
+msgstr ""
+
+#: denise_station.py:2183
+msgid "Thanks to"
+msgstr ""
+
+#: denise_station.py:225
+msgid "Search title, developer, publisher…"
+msgstr ""
+
+#: denise_station.py:242
+msgid "WHDLoad download…"
+msgstr ""
+
+#: denise_station.py:246
+msgid "Scrape all missing info"
+msgstr ""
+
+#: denise_station.py:252
+msgid "Logs"
+msgstr ""
+
+#: denise_station.py:254
+msgid "Open last launch log"
+msgstr ""
+
+#: denise_station.py:255
+msgid "Open last scraping log"
+msgstr ""
+
+#: denise_station.py:261
+msgid "Settings…"
+msgstr ""
+
+#: denise_station.py:262
+msgid "Amiberry configuration…"
+msgstr ""
+
+#: denise_station.py:264
+msgid "Open Amiberry"
+msgstr ""
+
+#: denise_station.py:265
+msgid "Setup wizard…"
+msgstr ""
+
+#: denise_station.py:269
+msgid "Keyboard shortcuts…"
+msgstr ""
+
+#: denise_station.py:270
+msgid "About"
+msgstr ""
+
+#: denise_station.py:288
+msgid "Full screen"
+msgstr ""
+
+#: denise_station.py:370
+msgid "Stop"
+msgstr ""
+
+#: denise_station.py:414
+msgid "File"
+msgstr ""
+
+#: denise_station.py:428
+msgid "Savestates"
+msgstr ""
+
+#: denise_station.py:433
+msgid "Right click: Rename…, Delete"
+msgstr ""
+
+#: denise_station.py:596
+msgid "Unsorted"
+msgstr ""
+
+#: denise_station.py:602
+msgid "never"
+msgstr ""
+
+#: denise_station.py:918
+msgid "Play"
+msgstr ""
+
+#: denise_station.py:922
+msgid "Scrape"
+msgstr ""
+
+#: denise_station.py:923
+msgid "Advanced scrape…"
+msgstr ""
+
+#: denise_station.py:931
+msgid "Edit…"
+msgstr ""
+
+#: denise_station.py:972
+msgid "Shortcut removed from the application menu."
+msgstr ""
+
+#: denise_station.py:974
+msgid "Could not remove"
+msgstr ""
+
+#: denise_station.py:979
+msgid "Removed from recently played."
+msgstr ""
+
+#: denise_station.py:983
+msgid "Clear the recently played list?"
+msgstr ""
+
+#: denise_station.py:1010
+msgid "Amiberry will start in full window mode."
+msgstr ""
+
+#: denise_station.py:1011
+msgid "Amiberry will use its own window setting."
+msgstr ""
+
+#: denise_station.py:1050
+msgid "File not found"
+msgstr ""
+
+#: denise_station.py:1055
+msgid "Denise Station can download Amiberry (AppImage) now."
+msgstr ""
+
+#: denise_station.py:1056
+msgid "Download"
+msgstr ""
+
+#: denise_station.py:1104
+msgid "No log yet"
+msgstr ""
+
+#: denise_station.py:1104
+msgid "Launch a game first."
+msgstr ""
+
+#: denise_station.py:1110
+msgid "Scrape a game first."
+msgstr ""
+
+#: denise_station.py:1117
+msgid "Game properties"
+msgstr ""
+
+#: denise_station.py:1132
+msgid "The category comes from the folder. Move the file to another folder (and rescan) to change it."
+msgstr ""
+
+#: denise_station.py:1151
+msgid "e.g. --model A1200"
+msgstr ""
+
+#: denise_station.py:1158
+msgid "Title"
+msgstr ""
+
+#: denise_station.py:1158
+msgid "Genre"
+msgstr ""
+
+#: denise_station.py:1159
+msgid "Year"
+msgstr ""
+
+#: denise_station.py:1159
+msgid "Developer"
+msgstr ""
+
+#: denise_station.py:1160
+msgid "Publisher"
+msgstr ""
+
+#: denise_station.py:1160
+msgid "Rating (0–5)"
+msgstr ""
+
+#: denise_station.py:1161
+msgid "Score (0–100)"
+msgstr ""
+
+#: denise_station.py:1162
+msgid "Graphics"
+msgstr ""
+
+#: denise_station.py:1162
+msgid "Sound"
+msgstr ""
+
+#: denise_station.py:1163
+msgid "Gameplay"
+msgstr ""
+
+#: denise_station.py:1164
+msgid "Atmosphere"
+msgstr ""
+
+#: denise_station.py:1165
+msgid "Set cover…"
+msgstr ""
+
+#: denise_station.py:1167
+msgid "Extra Amiberry args"
+msgstr ""
+
+#: denise_station.py:1167
+msgid "Cover"
+msgstr ""
+
+#: denise_station.py:1167
+msgid "Notes"
+msgstr ""
+
+#: denise_station.py:1201
+msgid "Choose a cover"
+msgstr ""
+
+#: denise_station.py:1295
+msgid "WHDLoad games need the WHDLoad program (from whdload.de), which Amiberry downloads separately. Download it now?"
+msgstr ""
+
+#: denise_station.py:1302
+msgid "Download WHDLoad"
+msgstr ""
+
+#: denise_station.py:1332
+msgid "Amiberry not found"
+msgstr ""
+
+#: denise_station.py:1332
+msgid "Use \"Download / update Amiberry\" to install it."
+msgstr ""
+
+#: denise_station.py:1346
+msgid "Choose the folder with the Kickstart ROMs (e.g. Amiga Forever → Shared → rom)"
+msgstr ""
+
+#: denise_station.py:1357
+msgid "Import Kickstart ROMs"
+msgstr ""
+
+#: denise_station.py:1385
+msgid "Download / update Amiberry"
+msgstr ""
+
+#: denise_station.py:1385
+msgid "Add a game folder first."
+msgstr ""
+
+#: denise_station.py:1392
+msgid "Looking for the latest release…"
+msgstr ""
+
+#: denise_station.py:1440
+msgid "No game folders configured - open Menu → Settings."
+msgstr ""
+
+#: denise_station.py:1473
+msgid "Scraping error: {detail}"
+msgstr ""
+
+#: denise_station.py:1485
+msgid "Amiberry configuration"
+msgstr ""
+
+#: denise_station.py:1498
+msgid "Filter"
+msgstr ""
+
+#: denise_station.py:1505
+msgid "Key"
+msgstr ""
+
+#: denise_station.py:1602
+msgid "Play from this savestate"
+msgstr ""
+
+#: denise_station.py:1633
+msgid "Delete this savestate?"
+msgstr ""
+
+#: denise_station.py:1653
+msgid "A scrape is already running."
+msgstr ""
+
+#: denise_station.py:1660
+msgid "Advanced scrape"
+msgstr ""
+
+#: denise_station.py:1705
+msgid "Searching…"
+msgstr ""
+
+#: denise_station.py:1756
+msgid "Cover and info updated."
+msgstr ""
+
+#: denise_station.py:1756
+msgid "The cover could not be downloaded."
+msgstr ""
+
+#: denise_station.py:1794
+msgid "Replace descriptions that games already have?"
+msgstr ""
+
+#: denise_station.py:1810
+msgid "Every game has already been scraped."
+msgstr ""
+
+#: denise_station.py:1947
+msgid "Settings"
+msgstr ""
+
+#: denise_station.py:1977
+msgid "empty = the downloaded Amiberry AppImage"
+msgstr ""
+
+#: denise_station.py:1979
+msgid "extra Amiberry arguments for every game"
+msgstr ""
+
+#: denise_station.py:1986
+msgid "Scan sub-folders"
+msgstr ""
+
+#: denise_station.py:1987
+msgid "Use the sub-folder name as the category (genre)"
+msgstr ""
+
+#: denise_station.py:1997
+msgid "Open Amiberry data folder"
+msgstr ""
+
+#: denise_station.py:2015
+msgid "Update WHDLoad boot files"
+msgstr ""
+
+#: denise_station.py:2018
+msgid "Import Kickstart ROMs…"
+msgstr ""
+
+#: denise_station.py:2041
+msgid "Also download the box cover"
+msgstr ""
+
+#: denise_station.py:2042
+msgid "Overwrite existing info (including the title)"
+msgstr ""
+
+#: denise_station.py:2046
+msgid "After a WHDLoad download, fetch info and pictures for the new games"
+msgstr ""
+
+#: denise_station.py:2049
+msgid "Test connection"
+msgstr ""
+
+#: denise_station.py:2091
+msgid "Show the copyright notice before WHDLoad downloads"
+msgstr ""
+
+#: denise_station.py:2097
+msgid "Check at start-up whether newer WHDLoad archives are available"
+msgstr ""
+
+#: denise_station.py:2143
+msgid "Denise Station"
+msgstr ""
+
+#: denise_station.py:2148
+msgid "In Amiberry (while a game runs)"
+msgstr ""
+
+#: denise_station.py:2151
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: denise_station.py:2178
+msgid "Amiga and Commodore are trademarks of their respective owners. Denise Station is an independent project, not affiliated with them."
+msgstr ""
+
+#: denise_station.py:242
+msgid "Download games"
+msgstr ""
+
+#: denise_station.py:403
+msgid "Played"
+msgstr ""
+
+#: denise_station.py:403
+msgid "Last played"
+msgstr ""
+
+#: denise_station.py:404
+msgid "Info source"
+msgstr ""
+
+#: denise_station.py:433
+msgid "Double-click: play from this savestate"
+msgstr ""
+
+#: denise_station.py:488
+msgid "Recently played"
+msgstr ""
+
+#: denise_station.py:608
+msgid "no match found"
+msgstr ""
+
+#: denise_station.py:610
+msgid "not yet"
+msgstr ""
+
+#: denise_station.py:670
+msgid "Click to enlarge"
+msgstr ""
+
+#: denise_station.py:919
+msgid "Remove from favorites"
+msgstr ""
+
+#: denise_station.py:919
+msgid "Add to favorites"
+msgstr ""
+
+#: denise_station.py:925
+msgid "Remove .desktop shortcut"
+msgstr ""
+
+#: denise_station.py:925
+msgid "Export .desktop shortcut…"
+msgstr ""
+
+#: denise_station.py:928
+msgid "Remove from recently played"
+msgstr ""
+
+#: denise_station.py:930
+msgid "Clear recently played…"
+msgstr ""
+
+#: denise_station.py:956
+msgid "Could not save"
+msgstr ""
+
+#: denise_station.py:961
+msgid "Added to the application menu: {path}"
+msgstr ""
+
+#: denise_station.py:995
+msgid "Amiberry shader: {name} (click for the next one)"
+msgstr ""
+
+#: denise_station.py:1005
+msgid "Amiberry shader: {name}"
+msgstr ""
+
+#: denise_station.py:1023
+msgid "Exit full screen"
+msgstr ""
+
+#: denise_station.py:1054
+msgid "Amiberry is not installed yet"
+msgstr ""
+
+#: denise_station.py:1075
+msgid "Could not start Amiberry"
+msgstr ""
+
+#: denise_station.py:1080
+msgid "Started: {title}"
+msgstr ""
+
+#: denise_station.py:1294
+msgid "WHDLoad is not installed yet"
+msgstr ""
+
+#: denise_station.py:1306
+msgid "Downloading WHDLoad and the boot files…"
+msgstr ""
+
+#: denise_station.py:1326
+msgid "WHDLoad and the boot files are installed."
+msgstr ""
+
+#: denise_station.py:1455
+msgid "Scan finished: {found} file(s) found, {added} new, {missing} missing."
+msgstr ""
+
+#: denise_station.py:1519
+msgid "Table"
+msgstr ""
+
+#: denise_station.py:1526
+msgid "Text"
+msgstr ""
+
+#: denise_station.py:1586
+msgid "Saved. The previous file is kept next to it as .bak."
+msgstr ""
+
+#: denise_station.py:1791
+msgid "This is not a valid descriptions file."
+msgstr ""
+
+#: denise_station.py:1805
+msgid "Descriptions added to {n} games; {m} entries matched no game."
+msgstr ""
+
+#: denise_station.py:1831
+msgid "Demos, beta demos and magazines are not looked up online."
+msgstr ""
+
+#: denise_station.py:1991
+msgid "File extensions"
+msgstr ""
+
+#: denise_station.py:1991
+msgid "Launch command"
+msgstr ""
+
+#: denise_station.py:1992
+msgid "Global arguments"
+msgstr ""
+
+#: denise_station.py:1992
+msgid "Amiberry shader"
+msgstr ""
+
+#: denise_station.py:2004
+msgid "Not found"
+msgstr ""
+
+#: denise_station.py:2065
+msgid "Connection test"
+msgstr ""
+
+#: denise_station.py:2089
+msgid "Language"
+msgstr ""
+
+#: denise_station.py:2089
+msgid "Appearance"
+msgstr ""
+
+#: denise_station.py:2090
+msgid "Amiberry LHA folder"
+msgstr ""
+
+#: denise_station.py:2096
+msgid "Retroplay repository"
+msgstr ""
+
+#: denise_station.py:2127
+msgid "Restart Denise Station to apply the new language."
+msgstr ""
+
+#: denise_station.py:2178
+msgid "© Elyon"
+msgstr ""
+
+#: denise_station.py:573
+msgid "Games: {n}"
+msgstr ""
+
+#: denise_station.py:580
+msgid "No game selected"
+msgstr ""
+
+#: denise_station.py:604
+msgid "Libretro (cover only)"
+msgstr ""
+
+#: denise_station.py:991
+msgid "Recently played cleared ({n} games)."
+msgstr ""
+
+#: denise_station.py:996
+msgid "as set in Amiberry"
+msgstr ""
+
+#: denise_station.py:1094
+msgid "{title} closed."
+msgstr ""
+
+#: denise_station.py:1096
+msgid "Amiberry exited with code {code} for {title} - see Menu → Open last launch log."
+msgstr ""
+
+#: denise_station.py:1256
+msgid "Removed {n} blank covers; use Scrape to fetch them again."
+msgstr ""
+
+#: denise_station.py:1261
+msgid "Download games ({n} updates)"
+msgstr ""
+
+#: denise_station.py:1323
+msgid "Could not download WHDLoad.\n\n{out}"
+msgstr ""
+
+#: denise_station.py:1358
+msgid "Copied {n} file(s) to {path} ({same} were already there).\n\nIf Amiberry does not find them, open its menu (F12) and press \"Rescan ROMs\" on the Play page (First-run setup)."
+msgstr ""
+
+#: denise_station.py:1362
+msgid "No Kickstart ROM files found in {path}."
+msgstr ""
+
+#: denise_station.py:1400
+msgid "Downloading… {mb} MB"
+msgstr ""
+
+#: denise_station.py:1420
+msgid "Amiberry {tag} installed in {path}."
+msgstr ""
+
+#: denise_station.py:1424
+msgid "Amiberry {tag} is ready. Games start with it from now on.\n\nAmiberry now keeps all its files (ROMs, configurations, savestates) in the hidden .amiberry folder. Copy your Kickstart ROMs to its \"ROMs\" folder (Settings → Open Amiberry data folder)."
+msgstr ""
+
+#: denise_station.py:1694
+msgid "Nothing found."
+msgstr ""
+
+#: denise_station.py:1972
+msgid "Game folder"
+msgstr ""
+
+#: denise_station.py:2036
+msgid "Fetches year, developer, publisher, genre, rating and the box cover from the Open Amiga Game Database (openretro.org). If a game is not found there, the cover is taken from the Libretro thumbnails, matched by similar title. No account or login is needed."
+msgstr ""
+
+#: denise_station.py:2144
+msgid "Clear the search, then hide the field"
+msgstr ""
+
+#: denise_station.py:2145
+msgid "Random game"
+msgstr ""
+
+#: denise_station.py:2146
+msgid "Rescan the library"
+msgstr ""
+
+#: denise_station.py:2147
+msgid "Full screen (this program)"
+msgstr ""
+
+#: denise_station.py:2148
+msgid "Toggle full screen / window"
+msgstr ""
+
+#: denise_station.py:2149
+msgid "Quit the game and Amiberry"
+msgstr ""
+
+#: denise_station.py:2150
+msgid "Amiberry menu"
+msgstr ""
+
+#: denise_station.py:1076
+msgid "{error}\n\nCommand: {command}"
+msgstr ""
+
+#: denise_station.py:1285
+msgid "{count} of your WHDLoad archives have a newer version - open Download games."
+msgstr ""
+
+#: denise_station.py:1376
+msgid "Amiberry {tag} is available - Settings → Download / update Amiberry."
+msgstr ""
+
+#: denise_station.py:1429
+msgid "Could not download: {err}"
+msgstr ""
+
+#: denise_station.py:1481
+msgid "Could not read: {err}"
+msgstr ""
+
+#: denise_station.py:1626
+msgid "Could not rename: {err}"
+msgstr ""
+
+#: denise_station.py:1643
+msgid "Could not delete: {err}"
+msgstr ""
+
+#: denise_station.py:1849
+msgid "Scraping {n}/{total}: {title}"
+msgstr ""
+
+#: denise_station.py:2005
+msgid "{path} does not exist yet.\nStart Amiberry once so it creates its folders (Kickstart ROMs go there)."
+msgstr ""
+
+#: denise_station.py:2028
+msgid "On save, the sandboxed Amiberry is granted read-only access to each game folder. Amiberry still needs Kickstart ROMs of your own."
+msgstr ""
+
+#: denise_station.py:2103
+msgid "The language change takes effect after restarting Denise Station."
+msgstr ""
+
+#: denise_station.py:1588
+msgid "Could not save: {err}"
+msgstr ""
+
+#: denise_station.py:1627
+msgid "that name is not allowed or already exists"
+msgstr ""
+
+#: denise_station.py:1694
+msgid "{n} results."
+msgstr ""
+
+#: denise_station.py:2062
+msgid "OK"
+msgstr ""
+
+#: denise_station.py:2063
+msgid "not reachable ({detail})"
+msgstr ""
+
+#: whdload_dialog.py:29
+msgid "Many Amiga games and magazines are still protected by copyright. Download only files you have the right to use: games you own, works released as freeware or with the rights holder's permission, or files that are legal to use where you live. You are responsible for having that right."
+msgstr ""
+
+#: whdload_dialog.py:33
+msgid "I have the right to use these files"
+msgstr ""
+
+#: whdload_dialog.py:204
+msgid "Untick everything"
+msgstr ""
+
+#: whdload_dialog.py:205
+msgid "Tick everything: show all archives"
+msgstr ""
+
+#: whdload_dialog.py:277
+msgid "Sorted by pack (Games, Demos…)"
+msgstr ""
+
+#: whdload_dialog.py:278
+msgid "Sorted by pack, then A, B, C…"
+msgstr ""
+
+#: whdload_dialog.py:279
+msgid "All files in one folder"
+msgstr ""
+
+#: whdload_dialog.py:280
+msgid "Sorted into A, B, C… folders"
+msgstr ""
+
+#: whdload_dialog.py:27
+msgid "Copyright notice"
+msgstr ""
+
+#: whdload_dialog.py:35
+msgid "Do not show this notice again"
+msgstr ""
+
+#: whdload_dialog.py:72
+msgid "Please enter a full https:// address without a user name or password."
+msgstr ""
+
+#: whdload_dialog.py:94
+msgid "WHDLoad download"
+msgstr ""
+
+#: whdload_dialog.py:114
+msgid "Filters"
+msgstr ""
+
+#: whdload_dialog.py:116
+msgid "Only games I don't have"
+msgstr ""
+
+#: whdload_dialog.py:117
+msgid "Refresh list"
+msgstr ""
+
+#: whdload_dialog.py:157
+msgid "Move to trash"
+msgstr ""
+
+#: whdload_dialog.py:202
+msgid "Clear filter"
+msgstr ""
+
+#: whdload_dialog.py:203
+msgid "Reset filter"
+msgstr ""
+
+#: whdload_dialog.py:211
+msgid "Move files hidden by the filter to the trash…"
+msgstr ""
+
+#: whdload_dialog.py:247
+msgid "Name"
+msgstr ""
+
+#: whdload_dialog.py:247
+msgid "Tags"
+msgstr ""
+
+#: whdload_dialog.py:247
+msgid "Size"
+msgstr ""
+
+#: whdload_dialog.py:247
+msgid "Pack"
+msgstr ""
+
+#: whdload_dialog.py:247
+msgid "Status"
+msgstr ""
+
+#: whdload_dialog.py:259
+msgid "Tick updates"
+msgstr ""
+
+#: whdload_dialog.py:260
+msgid "Tick all shown"
+msgstr ""
+
+#: whdload_dialog.py:261
+msgid "Untick all"
+msgstr ""
+
+#: whdload_dialog.py:262
+msgid "Save list…"
+msgstr ""
+
+#: whdload_dialog.py:263
+msgid "Load list…"
+msgstr ""
+
+#: whdload_dialog.py:274
+msgid "optional, e.g. Platform"
+msgstr ""
+
+#: whdload_dialog.py:295
+msgid "Download selected"
+msgstr ""
+
+#: whdload_dialog.py:314
+msgid "All packs"
+msgstr ""
+
+#: whdload_dialog.py:356
+msgid "Loading the list…"
+msgstr ""
+
+#: whdload_dialog.py:55
+msgid "Denise Station does not come with a Retroplay repository address. Enter the address (https://…) of the Retroplay repository you want to use. You are responsible for the repository you choose and for having the right to use the files it offers."
+msgstr ""
+
+#: whdload_dialog.py:104
+msgid "Downloads ready-made WHDLoad archives from the Retroplay packs on Turran's server, one at a time, and checks each file against its CRC32. Only download what you are allowed to use."
+msgstr ""
+
+#: whdload_dialog.py:149
+msgid "None of your files match the unticked filters."
+msgstr ""
+
+#: whdload_dialog.py:191
+msgid "System"
+msgstr ""
+
+#: whdload_dialog.py:191
+msgid "Extras"
+msgstr ""
+
+#: whdload_dialog.py:283
+msgid "Save to folder"
+msgstr ""
+
+#: whdload_dialog.py:283
+msgid "Category sub-folder"
+msgstr ""
+
+#: whdload_dialog.py:284
+msgid "Folder layout"
+msgstr ""
+
+#: whdload_dialog.py:377
+msgid "The sub-folder name is not valid."
+msgstr ""
+
+#: whdload_dialog.py:430
+msgid "{ok} downloaded, {skipped} already there, {failed} failed."
+msgstr ""
+
+#: whdload_dialog.py:453
+msgid "All your WHDLoad archives are up to date."
+msgstr ""
+
+#: whdload_dialog.py:463
+msgid "Tick some archives first."
+msgstr ""
+
+#: whdload_dialog.py:170
+msgid "{n} file(s) moved to the trash."
+msgstr ""
+
+#: whdload_dialog.py:179
+msgid "In your library"
+msgstr ""
+
+#: whdload_dialog.py:337
+msgid "{count} archives available."
+msgstr ""
+
+#: whdload_dialog.py:346
+msgid "Stopped."
+msgstr ""
+
+#: whdload_dialog.py:152
+msgid "Move {n} file(s) to the trash?"
+msgstr ""
+
+#: whdload_dialog.py:154
+msgid "and {n} more"
+msgstr ""
+
+#: whdload_dialog.py:155
+msgid "These files in your library match the filters you unticked. They go to the trash, so you can restore them from there."
+msgstr ""
+
+#: whdload_dialog.py:172
+msgid "Could not move:"
+msgstr ""
+
+#: whdload_dialog.py:332
+msgid "Update: {old} → {new}"
+msgstr ""
+
+#: whdload_dialog.py:346
+msgid "Could not load the list: {error}"
+msgstr ""
+
+#: whdload_dialog.py:397
+msgid "Already there"
+msgstr ""
+
+#: whdload_dialog.py:407
+msgid "Downloaded"
+msgstr ""
+
+#: whdload_dialog.py:453
+msgid "{count} updates ticked."
+msgstr ""
+
+#: whdload_dialog.py:495
+msgid "{count} archives from the list ticked."
+msgstr ""
+
+#: whdload_dialog.py:399
+msgid "Downloading {n}/{total}: {name}"
+msgstr ""
+
+#: whdload_dialog.py:412
+msgid "Failed"
+msgstr ""
+
+#: whdload_dialog.py:474
+msgid "List saved ({count} archives)."
+msgstr ""
+
+#: whdload_dialog.py:361
+msgid "Reading the server: {path}"
+msgstr ""
+
+#: setup_wizard.py:45
+msgid "Welcome to Denise Station"
+msgstr ""
+
+#: setup_wizard.py:57
+msgid "Welcome"
+msgstr ""
+
+#: setup_wizard.py:62
+msgid "Press Download to fetch Amiberry and the WHDLoad boot files."
+msgstr ""
+
+#: setup_wizard.py:70
+msgid "Amiberry"
+msgstr ""
+
+#: setup_wizard.py:132
+msgid "ROMs"
+msgstr ""
+
+#: setup_wizard.py:168
+msgid "1. Press \"Open Amiberry\" below.\n2. On the \"Play\" page, in the \"First-run setup\" section, press \"Rescan ROMs\".\n3. Check that it says \"Kickstart ROMs detected.\"\n4. Press \"Done\", then close Amiberry (Quit).\n\nThe \"Next\" button unlocks when Amiberry is closed."
+msgstr ""
+
+#: setup_wizard.py:180
+msgid "Scan"
+msgstr ""
+
+#: setup_wizard.py:221
+msgid "You can leave this empty and enter the address later, when you first open the download window."
+msgstr ""
+
+#: setup_wizard.py:226
+msgid "Repository"
+msgstr ""
+
+#: setup_wizard.py:247
+msgid "Done"
+msgstr ""
+
+#: setup_wizard.py:51
+msgid "This short setup downloads Amiberry (the emulator) and the files it needs, copies your Kickstart ROMs, and opens Amiberry once so that it can find them."
+msgstr ""
+
+#: setup_wizard.py:122
+msgid "Kickstart ROMs"
+msgstr ""
+
+#: setup_wizard.py:123
+msgid "Amiberry needs Kickstart ROMs you own. Choose the folder that holds them, for example Amiga Forever's Shared/rom folder (rom.key is copied too). You can skip this and import them later in Settings."
+msgstr ""
+
+#: setup_wizard.py:127
+msgid "Choose folder…"
+msgstr ""
+
+#: setup_wizard.py:159
+msgid "Let Amiberry find its files"
+msgstr ""
+
+#: setup_wizard.py:185
+msgid "Open Amiberry again"
+msgstr ""
+
+#: setup_wizard.py:186
+msgid "Amiberry was closed. You can continue."
+msgstr ""
+
+#: setup_wizard.py:202
+msgid "Amiberry is running…"
+msgstr ""
+
+#: setup_wizard.py:215
+msgid "Game repository"
+msgstr ""
+
+#: setup_wizard.py:240
+msgid "All set"
+msgstr ""
+
+#: setup_wizard.py:243
+msgid "Open the games download window now"
+msgstr ""
+
+#: setup_wizard.py:91
+msgid "Try again"
+msgstr ""
+
+#: setup_wizard.py:192
+msgid "Amiberry is not installed yet - go back and download it first."
+msgstr ""
+
+#: setup_wizard.py:53
+msgid "Your games live in {folder}. Amiberry and its files are kept in the hidden .amiberry folder inside it."
+msgstr ""
+
+#: setup_wizard.py:74
+msgid "Downloading Amiberry… {mb} MB"
+msgstr ""
+
+#: setup_wizard.py:163
+msgid "This step is required - do not skip it!"
+msgstr ""
+
+#: setup_wizard.py:164
+msgid "Without it Amiberry does not know where your ROMs are: games then start with a substitute ROM and close right away."
+msgstr ""
+
+#: setup_wizard.py:241
+msgid "Denise Station is ready. Download games with the download button in the title bar, or put your own games into {folder}."
+msgstr ""
+
+#: setup_wizard.py:84
+msgid "Amiberry {tag} and the WHDLoad boot files are installed."
+msgstr ""
+
+#: setup_wizard.py:105
+msgid "WHDLoad could not be downloaded."
+msgstr ""
+
+#: setup_wizard.py:148
+msgid "Copied {n} file(s) to {path} ({same} were already there)."
+msgstr ""
+
+#: setup_wizard.py:255
+msgid "ROMs found in {path}."
+msgstr ""

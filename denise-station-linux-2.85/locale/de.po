@@ -1,0 +1,1222 @@
+# Denise Station - German translation
+# Machine-assisted draft: reviews by native speakers are welcome.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de\n"
+
+msgid "Pick a random game (Ctrl+R)"
+msgstr "Zufälliges Spiel wählen (Strg+R)"
+
+msgid "Rescan game folders (F5)"
+msgstr "Spielordner neu einlesen (F5)"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Open"
+msgstr "Öffnen"
+
+msgid "Images"
+msgstr "Bilder"
+
+msgid "Welcome to Denise Station"
+msgstr "Willkommen bei Denise Station"
+
+msgid "Scanning…"
+msgstr "Einlesen…"
+
+msgid "The Open Amiga Game Database and Libretro could not be reached. Check your internet connection and try again later."
+msgstr "Die Open Amiga Game Database und Libretro waren nicht erreichbar. Prüfe deine Internetverbindung und versuche es später erneut."
+
+msgid "Scraping stopped: {ok} updated, {none} not found, {err} failed."
+msgstr "Abgebrochen: {ok} aktualisiert, {none} nicht gefunden, {err} fehlgeschlagen."
+
+msgid "Scraping finished: {ok} updated, {none} not found, {err} failed."
+msgstr "Fertig: {ok} aktualisiert, {none} nicht gefunden, {err} fehlgeschlagen."
+
+msgid "Save and scan"
+msgstr "Speichern und einlesen"
+
+msgid "Library"
+msgstr "Bibliothek"
+
+msgid "Games in <game folder>/Platform/ get the category \"Platform\"; games directly in the game folder keep their own genre."
+msgstr "Spiele in <Spielordner>/Platform/ erhalten die Kategorie „Platform“; Spiele direkt im Spielordner behalten ihr eigenes Genre."
+
+msgid "Scraping"
+msgstr "Abruf"
+
+msgid "General"
+msgstr "Allgemein"
+
+msgid "Automatic (system language)"
+msgstr "Automatisch (Systemsprache)"
+
+msgid "All game titles will be replaced by their file names (without the extension, with _ shown as a space). Titles you edited or that were fetched from a database will be lost."
+msgstr "Alle Spieltitel werden durch ihre Dateinamen ersetzt (ohne Endung, _ als Leerzeichen). Selbst bearbeitete oder aus einer Datenbank abgerufene Titel gehen verloren."
+
+msgid "A clean-room Amiga game launcher that starts games in Amiberry (Flatpak)."
+msgstr "Ein von Grund auf neu geschriebener Amiga-Spielestarter, der Spiele in Amiberry (Flatpak) startet."
+
+msgid "Search title, developer, publisher…"
+msgstr "Titel, Entwickler, Publisher suchen…"
+
+msgid "Scrape all missing info"
+msgstr "Fehlende Infos für alle Spiele abrufen"
+
+msgid "Restore titles from file names…"
+msgstr "Titel aus Dateinamen wiederherstellen…"
+
+msgid "Settings…"
+msgstr "Einstellungen…"
+
+msgid "Open last launch log"
+msgstr "Letztes Startprotokoll öffnen"
+
+msgid "About"
+msgstr "Info"
+
+msgid "Stop"
+msgstr "Stopp"
+
+msgid "Edit…"
+msgstr "Bearbeiten…"
+
+msgid "Scrape info"
+msgstr "Infos abrufen"
+
+msgid "Recently played"
+msgstr "Zuletzt gespielt"
+
+msgid "Genres"
+msgstr "Genres"
+
+msgid "Unsorted"
+msgstr "Nicht zugeordnet"
+
+msgid "never"
+msgstr "nie"
+
+msgid "Play"
+msgstr "Spielen"
+
+msgid "Show file in file manager"
+msgstr "Datei im Dateimanager anzeigen"
+
+msgid "File not found"
+msgstr "Datei nicht gefunden"
+
+msgid "No log yet"
+msgstr "Noch kein Protokoll"
+
+msgid "Launch a game first."
+msgstr "Starte zuerst ein Spiel."
+
+msgid "Game properties"
+msgstr "Spieleigenschaften"
+
+msgid "The category comes from the folder. Move the file to another folder (and rescan) to change it."
+msgstr "Die Kategorie stammt aus dem Ordner. Verschiebe die Datei in einen anderen Ordner (und lies neu ein), um sie zu ändern."
+
+msgid "e.g. --model A1200"
+msgstr "z. B. --model A1200"
+
+msgid "No game folders configured - open Menu → Settings."
+msgstr "Keine Spielordner eingerichtet – öffne Menü → Einstellungen."
+
+msgid "Scraping error: {detail}"
+msgstr "Abruffehler: {detail}"
+
+msgid "Every game has already been scraped."
+msgstr "Für alle Spiele wurden bereits Infos abgerufen."
+
+msgid "A scrape is already running."
+msgstr "Ein Abruf läuft bereits."
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Add folder…"
+msgstr "Ordner hinzufügen…"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Select"
+msgstr "Auswählen"
+
+msgid "extra Amiberry arguments for every game"
+msgstr "zusätzliche Amiberry-Argumente für jedes Spiel"
+
+msgid "Scan sub-folders"
+msgstr "Unterordner einlesen"
+
+msgid "Use the sub-folder name as the category (genre)"
+msgstr "Unterordnername als Kategorie (Genre) verwenden"
+
+msgid "Check Amiberry Flatpak"
+msgstr "Amiberry-Flatpak prüfen"
+
+msgid "Open Amiberry data folder"
+msgstr "Amiberry-Datenordner öffnen"
+
+msgid "Overwrite existing info (including the title)"
+msgstr "Vorhandene Infos überschreiben (einschließlich Titel)"
+
+msgid "Test connection"
+msgstr "Verbindung testen"
+
+msgid "Could not grant Amiberry access"
+msgstr "Zugriff für Amiberry konnte nicht gewährt werden"
+
+msgid "Restore titles?"
+msgstr "Titel wiederherstellen?"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Genre"
+msgstr "Genre"
+
+msgid "Year"
+msgstr "Jahr"
+
+msgid "Rating"
+msgstr "Bewertung"
+
+msgid "Plays"
+msgstr "Starts"
+
+msgid "Developer"
+msgstr "Entwickler"
+
+msgid "Publisher"
+msgstr "Publisher"
+
+msgid "Played"
+msgstr "Gespielt"
+
+msgid "Last played"
+msgstr "Zuletzt gespielt"
+
+msgid "Info source"
+msgstr "Infoquelle"
+
+msgid "File"
+msgstr "Datei"
+
+msgid "Favorite"
+msgstr "Favorit"
+
+msgid "no match found"
+msgstr "nichts gefunden"
+
+msgid "not yet"
+msgstr "noch nicht"
+
+msgid "Unfavorite"
+msgstr "Kein Favorit"
+
+msgid "Remove from favorites"
+msgstr "Aus Favoriten entfernen"
+
+msgid "Add to favorites"
+msgstr "Zu Favoriten hinzufügen"
+
+msgid "Unhide"
+msgstr "Einblenden"
+
+msgid "Hide from library"
+msgstr "In der Bibliothek ausblenden"
+
+msgid "Could not start Amiberry"
+msgstr "Amiberry konnte nicht gestartet werden"
+
+msgid "Started: {title}"
+msgstr "Gestartet: {title}"
+
+msgid "Rating (0–5)"
+msgstr "Bewertung (0–5)"
+
+msgid "Extra Amiberry args"
+msgstr "Zusätzliche Amiberry-Argumente"
+
+msgid "Notes"
+msgstr "Notizen"
+
+msgid "Scan finished: {found} file(s) found, {added} new, {missing} missing."
+msgstr "Einlesen abgeschlossen: {found} Datei(en) gefunden, {added} neu, {missing} fehlend."
+
+msgid "Select games folder"
+msgstr "Spielordner auswählen"
+
+msgid "File extensions"
+msgstr "Dateiendungen"
+
+msgid "Launch command"
+msgstr "Startbefehl"
+
+msgid "Global arguments"
+msgstr "Globale Argumente"
+
+msgid "Amiberry found"
+msgstr "Amiberry gefunden"
+
+msgid "Amiberry not found"
+msgstr "Amiberry nicht gefunden"
+
+msgid "Not found"
+msgstr "Nicht gefunden"
+
+msgid "Connection test"
+msgstr "Verbindungstest"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "Restart Denise Station to apply the new language."
+msgstr "Starte Denise Station neu, um die neue Sprache zu übernehmen."
+
+msgid "All games ({n})"
+msgstr "Alle Spiele ({n})"
+
+msgid "Favorites ({n})"
+msgstr "Favoriten ({n})"
+
+msgid "Hidden ({n})"
+msgstr "Ausgeblendet ({n})"
+
+msgid "Games: {n}"
+msgstr "Spiele: {n}"
+
+msgid "No game selected"
+msgstr "Kein Spiel ausgewählt"
+
+msgid "{title} closed."
+msgstr "{title} wurde beendet."
+
+msgid "Amiberry exited with code {code} for {title} - see Menu → Open last launch log."
+msgstr "Amiberry wurde für {title} mit Code {code} beendet – siehe Menü → Letztes Startprotokoll öffnen."
+
+msgid "Game folders"
+msgstr "Spielordner"
+
+msgid "empty = flatpak run {app}"
+msgstr "leer = flatpak run {app}"
+
+msgid "Titles restored: {n}"
+msgstr "Titel wiederhergestellt: {n}"
+
+msgid "{error}\n\nCommand: {command}"
+msgstr "{error}\n\nBefehl: {command}"
+
+msgid "Scraping {n}/{total}: {title}"
+msgstr "Abruf {n}/{total}: {title}"
+
+msgid "{app} is installed."
+msgstr "{app} ist installiert."
+
+msgid "Install it with:\n\nflatpak install flathub {app}"
+msgstr "Installiere es mit:\n\nflatpak install flathub {app}"
+
+msgid "{path} does not exist yet.\nStart Amiberry once so it creates its folders (Kickstart ROMs go there)."
+msgstr "{path} existiert noch nicht.\nStarte Amiberry einmal, damit es seine Ordner anlegt (dort liegen die Kickstart-ROMs)."
+
+msgid "On save, the sandboxed Amiberry is granted read-only access to each game folder. Amiberry still needs Kickstart ROMs of your own."
+msgstr "Beim Speichern erhält der abgeschottete Amiberry Lesezugriff auf jeden Spielordner. Amiberry benötigt weiterhin eigene Kickstart-ROMs."
+
+msgid "The language change takes effect after restarting Denise Station."
+msgstr "Die Sprachänderung wird nach einem Neustart von Denise Station wirksam."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "not reachable ({detail})"
+msgstr "nicht erreichbar ({detail})"
+
+msgid "Appearance"
+msgstr "Erscheinungsbild"
+
+msgid "Automatic (follow the system)"
+msgstr "Automatisch (wie das System)"
+
+msgid "Light"
+msgstr "Hell"
+
+msgid "Dark"
+msgstr "Dunkel"
+
+msgid "Open last scraping log"
+msgstr "Letztes Scraping-Protokoll öffnen"
+
+msgid "Scrape a game first."
+msgstr "Rufe zuerst Infos zu einem Spiel ab."
+
+msgid "WHDLoad download…"
+msgstr "WHDLoad-Download…"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "WHDLoad download"
+msgstr "WHDLoad-Download"
+
+msgid "Search"
+msgstr "Suchen"
+
+msgid "Refresh list"
+msgstr "Liste aktualisieren"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Size"
+msgstr "Größe"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "optional, e.g. Platform"
+msgstr "optional, z. B. Platform"
+
+msgid "Download selected"
+msgstr "Auswahl herunterladen"
+
+msgid "Loading the list…"
+msgstr "Liste wird geladen…"
+
+msgid "Category sub-folder"
+msgstr "Kategorie-Unterordner"
+
+msgid "The sub-folder name is not valid."
+msgstr "Der Name des Unterordners ist ungültig."
+
+msgid "Could not load the list: {error}"
+msgstr "Die Liste konnte nicht geladen werden: {error}"
+
+msgid "Downloaded"
+msgstr "Heruntergeladen"
+
+msgid "Stopped."
+msgstr "Angehalten."
+
+msgid "In your library"
+msgstr "In deiner Bibliothek"
+
+msgid "Downloading {n}/{total}: {name}"
+msgstr "Lade {n}/{total}: {name}"
+
+msgid "Failed"
+msgstr "Fehlgeschlagen"
+
+msgid "All files in one folder"
+msgstr "Alle Dateien in einem Ordner"
+
+msgid "Sorted into A, B, C… folders"
+msgstr "In Ordner A, B, C… sortiert"
+
+msgid "Only games I don't have"
+msgstr "Nur Spiele, die ich nicht habe"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Pack"
+msgstr "Paket"
+
+msgid "Tick all shown"
+msgstr "Alle angezeigten markieren"
+
+msgid "Untick all"
+msgstr "Alle abwählen"
+
+msgid "Save list…"
+msgstr "Liste speichern…"
+
+msgid "Load list…"
+msgstr "Liste laden…"
+
+msgid "All packs"
+msgstr "Alle Pakete"
+
+msgid "All tags"
+msgstr "Alle Tags"
+
+msgid "Downloads ready-made WHDLoad archives from the Retroplay packs on Turran's server, one at a time, and checks each file against its CRC32. Only download what you are allowed to use."
+msgstr "Lädt fertige WHDLoad-Archive aus den Retroplay-Paketen auf Turrans Server herunter, eines nach dem anderen, und prüft jede Datei mit ihrer CRC32-Summe. Lade nur herunter, was du nutzen darfst."
+
+msgid "Folder layout"
+msgstr "Ordneraufbau"
+
+msgid "{ok} downloaded, {skipped} already there, {failed} failed."
+msgstr "{ok} heruntergeladen, {skipped} schon vorhanden, {failed} fehlgeschlagen."
+
+msgid "Tick some archives first."
+msgstr "Markiere zuerst einige Archive."
+
+msgid "{count} archives available."
+msgstr "{count} Archive verfügbar."
+
+msgid "Already there"
+msgstr "Schon vorhanden"
+
+msgid "{count} archives from the list ticked."
+msgstr "{count} Archive aus der Liste markiert."
+
+msgid "List saved ({count} archives)."
+msgstr "Liste gespeichert ({count} Archive)."
+
+msgid "Reading the server: {path}"
+msgstr "Server wird gelesen: {path}"
+
+msgid "Sorted by pack (Games, Demos…)"
+msgstr "Nach Paket sortiert (Games, Demos…)"
+
+msgid "Sorted by pack, then A, B, C…"
+msgstr "Nach Paket, dann A, B, C…"
+
+msgid "Amiberry LHA folder"
+msgstr "Amiberry-LHA-Ordner"
+
+msgid "Save to folder"
+msgstr "Speichern in Ordner"
+
+msgid "Download games"
+msgstr "Spiele laden"
+
+msgid "Your games live in {folder}. Pick the ones to download."
+msgstr "Deine Spiele liegen in {folder}. Wähle die, die du herunterladen willst."
+
+msgid "Could not create {folder}: {error}. Add a game folder in Settings."
+msgstr "{folder} konnte nicht erstellt werden: {error}. Füge in den Einstellungen einen Spieleordner hinzu."
+
+msgid "After a WHDLoad download, fetch info and pictures for the new games"
+msgstr "Nach einem WHDLoad-Download Infos und Bilder der neuen Spiele abrufen"
+
+msgid "Open manual"
+msgstr "Handbuch öffnen"
+
+msgid "Also download extra pictures and the manual (when available)"
+msgstr "Auch zusätzliche Bilder und das Handbuch laden (falls vorhanden)"
+
+msgid "Copyright notice"
+msgstr "Urheberrechtshinweis"
+
+msgid "Many Amiga games and magazines are still protected by copyright. Download only files you have the right to use: games you own, works released as freeware or with the rights holder's permission, or files that are legal to use where you live. You are responsible for having that right."
+msgstr "Viele Amiga-Spiele und -Magazine sind weiterhin urheberrechtlich geschützt. Lade nur Dateien herunter, die du nutzen darfst: Spiele, die du besitzt, als Freeware oder mit Erlaubnis des Rechteinhabers veröffentlichte Werke oder Dateien, deren Nutzung an deinem Wohnort legal ist. Du bist dafür verantwortlich, dieses Recht zu besitzen."
+
+msgid "I have the right to use these files"
+msgstr "Ich darf diese Dateien nutzen"
+
+msgid "Do not show this notice again"
+msgstr "Diesen Hinweis nicht mehr anzeigen"
+
+msgid "Show the copyright notice before WHDLoad downloads"
+msgstr "Urheberrechtshinweis vor WHDLoad-Downloads anzeigen"
+
+msgid "Check at start-up whether newer WHDLoad archives are available"
+msgstr "Beim Start prüfen, ob neuere WHDLoad-Archive verfügbar sind"
+
+msgid "Download games ({n} updates)"
+msgstr "Spiele laden ({n} Updates)"
+
+msgid "{count} of your WHDLoad archives have a newer version - open Download games."
+msgstr "Für {count} deiner WHDLoad-Archive gibt es eine neuere Version - öffne Spiele laden."
+
+msgid "Tick updates"
+msgstr "Updates markieren"
+
+msgid "All your WHDLoad archives are up to date."
+msgstr "Alle deine WHDLoad-Archive sind aktuell."
+
+msgid "Update: {old} → {new}"
+msgstr "Update: {old} → {new}"
+
+msgid "{count} updates ticked."
+msgstr "{count} Updates markiert."
+
+msgid "Retroplay repository"
+msgstr "Retroplay-Repository"
+
+msgid "Please enter a full https:// address without a user name or password."
+msgstr "Bitte gib eine vollständige https://-Adresse ohne Benutzername und Passwort ein."
+
+msgid "Denise Station does not come with a Retroplay repository address. Enter the address (https://…) of the Retroplay repository you want to use. You are responsible for the repository you choose and for having the right to use the files it offers."
+msgstr "Denise Station enthält keine Adresse eines Retroplay-Repositorys. Gib die Adresse (https://…) des Retroplay-Repositorys ein, das du verwenden möchtest. Du bist für das gewählte Repository und für das Recht zur Nutzung der angebotenen Dateien selbst verantwortlich."
+
+msgid "Cover grid / list"
+msgstr "Cover-Raster / Liste"
+
+msgid "Fetch genre, year and cover from the Open Amiga Game Database, then Libretro"
+msgstr "Genre, Jahr und Cover aus der Open Amiga Game Database, danach von Libretro holen"
+
+msgid "Set cover…"
+msgstr "Cover festlegen…"
+
+msgid "Choose a cover"
+msgstr "Cover auswählen"
+
+msgid "Also download the box cover"
+msgstr "Auch das Box-Cover herunterladen"
+
+msgid "Libretro (cover only)"
+msgstr "Libretro (nur Cover)"
+
+msgid "Fetches year, developer, publisher, genre, rating and the box cover from the Open Amiga Game Database (openretro.org). If a game is not found there, the cover is taken from the Libretro thumbnails, matched by similar title. No account or login is needed."
+msgstr "Holt Jahr, Entwickler, Publisher, Genre, Bewertung und das Box-Cover aus der Open Amiga Game Database (openretro.org). Wird ein Spiel dort nicht gefunden, kommt das Cover aus den Libretro-Thumbnails, gesucht nach ähnlichem Titel. Ein Konto oder eine Anmeldung ist nicht nötig. Beschreibungen sind im Programm eingebaut und werden nicht von dort geholt."
+
+msgid "Export game list for descriptions…"
+msgstr "Spieleliste für Beschreibungen exportieren…"
+
+msgid "Import descriptions from file…"
+msgstr "Beschreibungen aus Datei importieren…"
+
+msgid "Save the game list"
+msgstr "Spieleliste speichern"
+
+msgid "Could not save: {err}"
+msgstr "Speichern nicht möglich: {err}"
+
+msgid "Game list saved: {n} games"
+msgstr "Spieleliste gespeichert: {n} Spiele"
+
+msgid "Choose a file with descriptions"
+msgstr "Datei mit Beschreibungen wählen"
+
+msgid "This is not a valid descriptions file."
+msgstr "Das ist keine gültige Beschreibungsdatei."
+
+msgid "Replace descriptions that games already have?"
+msgstr "Bereits vorhandene Beschreibungen ersetzen?"
+
+msgid "Descriptions fetched from the database or typed by you are kept when you choose “Only empty”."
+msgstr "Aus der Datenbank geholte oder von dir eingegebene Beschreibungen bleiben erhalten, wenn du „Nur leere“ wählst."
+
+msgid "Only empty"
+msgstr "Nur leere"
+
+msgid "Replace all"
+msgstr "Alle ersetzen"
+
+msgid "Descriptions added to {n} games; {m} entries matched no game."
+msgstr "Beschreibungen zu {n} Spielen hinzugefügt; {m} Einträge passten zu keinem Spiel."
+
+msgid "Scrape"
+msgstr "Scrapen"
+
+msgid "Click to enlarge"
+msgstr "Zum Vergrößern klicken"
+
+msgid "Demos, beta demos and magazines are not looked up online."
+msgstr "Demos, Beta-Demos und Magazine werden nicht online gesucht."
+
+msgid "Removed {n} blank covers; use Scrape to fetch them again."
+msgstr "{n} leere Cover entfernt; mit Scrapen erneut laden."
+
+msgid "Advanced scrape…"
+msgstr "Erweitertes Scrapen…"
+
+msgid "Advanced scrape"
+msgstr "Erweitertes Scrapen"
+
+msgid "Use selected"
+msgstr "Auswahl verwenden"
+
+msgid "{n} results."
+msgstr "{n} Ergebnisse."
+
+msgid "Nothing found."
+msgstr "Nichts gefunden."
+
+msgid "Searching…"
+msgstr "Suche…"
+
+msgid "Downloading the chosen cover…"
+msgstr "Gewähltes Cover wird geladen…"
+
+msgid "Cover and info updated."
+msgstr "Cover und Infos aktualisiert."
+
+msgid "The cover could not be downloaded."
+msgstr "Das Cover konnte nicht geladen werden."
+
+msgid "Amiberry configuration…"
+msgstr "Amiberry-Konfiguration…"
+
+msgid "Amiberry configuration"
+msgstr "Amiberry-Konfiguration"
+
+msgid "Could not read: {err}"
+msgstr "Lesen nicht möglich: {err}"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Key"
+msgstr "Schlüssel"
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Table"
+msgstr "Tabelle"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Saved. The previous file is kept next to it as .bak."
+msgstr "Gespeichert. Die vorherige Datei liegt daneben als .bak."
+
+msgid "Play from savestate…"
+msgstr "Ab Savestate spielen…"
+
+msgid "Savestates…"
+msgstr "Savestates…"
+
+msgid "Savestates"
+msgstr "Savestates"
+
+msgid "No savestates found for this game."
+msgstr "Keine Savestates für dieses Spiel gefunden."
+
+msgid "Play from savestate"
+msgstr "Ab Savestate spielen"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Rename…"
+msgstr "Umbenennen…"
+
+msgid "Delete this savestate?"
+msgstr "Diesen Savestate löschen?"
+
+msgid "Could not rename: {err}"
+msgstr "Umbenennen nicht möglich: {err}"
+
+msgid "Could not delete: {err}"
+msgstr "Löschen nicht möglich: {err}"
+
+msgid "that name is not allowed or already exists"
+msgstr "dieser Name ist nicht erlaubt oder existiert bereits"
+
+msgid "Double-click: play from this savestate"
+msgstr "Doppelklick: ab diesem Savestate spielen"
+
+msgid "Edit savestates…"
+msgstr "Savestates bearbeiten…"
+
+msgid "Play from this savestate"
+msgstr "Ab diesem Savestate spielen"
+
+msgid "Right click: Rename…, Delete"
+msgstr "Rechtsklick: Umbenennen…, Löschen"
+
+msgid "Clear recently played…"
+msgstr "Zuletzt gespielt leeren…"
+
+msgid "Remove from recently played"
+msgstr "Aus „Zuletzt gespielt“ entfernen"
+
+msgid "Removed from recently played."
+msgstr "Aus „Zuletzt gespielt“ entfernt."
+
+msgid "Clear the recently played list?"
+msgstr "Liste „Zuletzt gespielt“ leeren?"
+
+msgid "The games stay in the library, and their play counts are kept."
+msgstr "Die Spiele bleiben in der Bibliothek, die Spielzähler bleiben erhalten."
+
+msgid "Clear"
+msgstr "Leeren"
+
+msgid "Recently played cleared ({n} games)."
+msgstr "„Zuletzt gespielt“ geleert ({n} Spiele)."
+
+msgid "Full screen"
+msgstr "Vollbild"
+
+msgid "Exit full screen"
+msgstr "Vollbild beenden"
+
+msgid "Amiberry: start in full window mode"
+msgstr "Amiberry: im Vollfenster-Modus starten"
+
+msgid "Amiberry will start in full window mode."
+msgstr "Amiberry startet im Vollfenster-Modus."
+
+msgid "Amiberry will use its own window setting."
+msgstr "Amiberry verwendet seine eigene Fenstereinstellung."
+
+msgid "Keyboard shortcuts…"
+msgstr "Tastenkürzel…"
+
+msgid "Keyboard shortcuts"
+msgstr "Tastenkürzel"
+
+msgid "Denise Station"
+msgstr "Denise Station"
+
+msgid "In Amiberry (while a game runs)"
+msgstr "In Amiberry (während ein Spiel läuft)"
+
+msgid "Clear the search"
+msgstr "Suche leeren"
+
+msgid "Random game"
+msgstr "Zufälliges Spiel"
+
+msgid "Rescan the library"
+msgstr "Bibliothek neu einlesen"
+
+msgid "Full screen (this program)"
+msgstr "Vollbild (dieses Programm)"
+
+msgid "Toggle full screen / window"
+msgstr "Vollbild / Fenster umschalten"
+
+msgid "Quit the game and Amiberry"
+msgstr "Spiel und Amiberry beenden"
+
+msgid "Amiberry menu"
+msgstr "Amiberry-Menü"
+
+msgid "Amiberry shader"
+msgstr "Amiberry-Shader"
+
+msgid "(leave as in Amiberry)"
+msgstr "(wie in Amiberry belassen)"
+
+msgid "Written to amiberry.conf as shader=… when a game starts."
+msgstr "Wird beim Spielstart als shader=… in amiberry.conf geschrieben."
+
+msgid "Amiberry shader: {name} (click for the next one)"
+msgstr "Amiberry-Shader: {name} (klicken für den nächsten)"
+
+msgid "as set in Amiberry"
+msgstr "wie in Amiberry"
+
+msgid "Amiberry shader: {name}"
+msgstr "Amiberry-Shader: {name}"
+
+msgid "Port {n}: {dev}"
+msgstr "Port {n}: {dev}"
+
+msgid "As set in Amiberry"
+msgstr "Wie in Amiberry"
+
+msgid "Mouse"
+msgstr "Maus"
+
+msgid "Joystick 1"
+msgstr "Joystick 1"
+
+msgid "Joystick 2"
+msgstr "Joystick 2"
+
+msgid "Joystick 3"
+msgstr "Joystick 3"
+
+msgid "Joystick 4"
+msgstr "Joystick 4"
+
+msgid "Keyboard layout A"
+msgstr "Tastaturlayout A"
+
+msgid "Keyboard layout B"
+msgstr "Tastaturlayout B"
+
+msgid "Keyboard layout C"
+msgstr "Tastaturlayout C"
+
+msgid "Keyboard layout D"
+msgstr "Tastaturlayout D"
+
+msgid "Logs"
+msgstr "Protokolle"
+
+msgid "Clear the search, then hide the field"
+msgstr "Suche leeren, dann Feld ausblenden"
+
+msgid "Download / update Amiberry"
+msgstr "Amiberry herunterladen / aktualisieren"
+
+msgid "Looking for the latest release…"
+msgstr "Suche die neueste Version…"
+
+msgid "Downloading… {mb} MB"
+msgstr "Lade herunter… {mb} MB"
+
+msgid "Add a game folder first."
+msgstr "Füge zuerst einen Spieleordner hinzu."
+
+msgid "Amiberry {tag} is available - Settings → Download / update Amiberry."
+msgstr "Amiberry {tag} ist verfügbar – Einstellungen → Amiberry herunterladen / aktualisieren."
+
+msgid "Amiberry {tag} installed in {path}."
+msgstr "Amiberry {tag} installiert in {path}."
+
+
+msgid "Could not download: {err}"
+msgstr "Download fehlgeschlagen: {err}"
+
+msgid "Installs Amiberry (AppImage) in a hidden .amiberry folder inside your first game folder, so Flatpak is not needed."
+msgstr "Installiert Amiberry (AppImage) in einem versteckten Ordner .amiberry im ersten Spieleordner, Flatpak ist nicht nötig."
+
+msgid "Amiberry {tag} (AppImage) in {path}"
+msgstr "Amiberry {tag} (AppImage) in {path}"
+
+msgid "Amiberry {tag} is ready. Games now start with it instead of Flatpak.\n\nAmiberry now keeps all its files (ROMs, configurations, savestates) in the hidden .amiberry folder. Copy your Kickstart ROMs to its \"ROMs\" folder (Settings → Open Amiberry data folder)."
+msgstr "Amiberry {tag} ist bereit. Spiele starten jetzt damit statt mit Flatpak.\n\nAmiberry hält jetzt alle Dateien (ROMs, Konfigurationen, Spielstände) im versteckten Ordner .amiberry. Kopiere deine Kickstart-ROMs in dessen Ordner \"ROMs\" (Einstellungen → Amiberry-Datenordner öffnen)."
+
+msgid "Import Kickstart ROMs…"
+msgstr "Kickstart-ROMs importieren…"
+
+msgid "Import Kickstart ROMs"
+msgstr "Kickstart-ROMs importieren"
+
+msgid "Import"
+msgstr "Importieren"
+
+msgid "Copies the ROM files (and rom.key) from a folder, e.g. Amiga Forever's Shared/rom, into Amiberry's roms folder."
+msgstr "Kopiert die ROM-Dateien (und rom.key) aus einem Ordner, z. B. Shared/rom von Amiga Forever, in den roms-Ordner von Amiberry."
+
+msgid "Choose the folder with the Kickstart ROMs (e.g. Amiga Forever → Shared → rom)"
+msgstr "Wähle den Ordner mit den Kickstart-ROMs (z. B. Amiga Forever → Shared → rom)"
+
+msgid "Copied {n} file(s) to {path} ({same} were already there).\n\nIf Amiberry does not find them, open its menu (F12) and press \"Rescan ROMs\" on the Play page (First-run setup)."
+msgstr "{n} Datei(en) nach {path} kopiert ({same} waren schon da).\n\nFalls Amiberry sie nicht findet, öffne sein Menü (F12) und drücke auf der Seite Play (First-run setup) auf \"Rescan ROMs\"."
+
+msgid "No Kickstart ROM files found in {path}."
+msgstr "Keine Kickstart-ROM-Dateien in {path} gefunden."
+
+msgid "Open Amiberry"
+msgstr "Amiberry öffnen"
+
+msgid "Downloading WHDLoad boot files, controllers and shaders…"
+msgstr "Lade WHDLoad-Startdateien, Controller und Shader herunter…"
+
+msgid "Amiberry was installed, but the extra files (WHDLoad boot files, controllers, shaders) could not be downloaded: {err}"
+msgstr "Amiberry wurde installiert, aber die zusätzlichen Dateien (WHDLoad-Startdateien, Controller, Shader) konnten nicht geladen werden: {err}"
+
+msgid "WHDLoad is not installed yet"
+msgstr "WHDLoad ist noch nicht installiert"
+
+msgid "WHDLoad games need the WHDLoad program (from whdload.de), which Amiberry downloads separately. Download it now?"
+msgstr "WHDLoad-Spiele brauchen das Programm WHDLoad (von whdload.de), das Amiberry separat herunterlädt. Jetzt herunterladen?"
+
+msgid "Download"
+msgstr "Herunterladen"
+
+msgid "Download WHDLoad"
+msgstr "WHDLoad herunterladen"
+
+msgid "Downloading WHDLoad and the boot files…"
+msgstr "Lade WHDLoad und die Startdateien herunter…"
+
+msgid "Could not download WHDLoad.\n\n{out}"
+msgstr "WHDLoad konnte nicht heruntergeladen werden.\n\n{out}"
+
+msgid "WHDLoad and the boot files are installed."
+msgstr "WHDLoad und die Startdateien sind installiert."
+
+msgid "Update WHDLoad boot files"
+msgstr "WHDLoad-Startdateien aktualisieren"
+
+msgid "Filters"
+msgstr "Filter"
+
+msgid "System"
+msgstr "System"
+
+msgid "Extras"
+msgstr "Extras"
+
+msgid "Clear filter"
+msgstr "Filter leeren"
+
+msgid "Reset filter"
+msgstr "Filter zurücksetzen"
+
+msgid "Untick everything"
+msgstr "Alles abwählen"
+
+msgid "Tick everything: show all archives"
+msgstr "Alles anwählen: alle Archive zeigen"
+
+msgid "Czech"
+msgstr "Tschechisch"
+
+msgid "Danish"
+msgstr "Dänisch"
+
+msgid "Dutch"
+msgstr "Niederländisch"
+
+msgid "English"
+msgstr "Englisch"
+
+msgid "Finnish"
+msgstr "Finnisch"
+
+msgid "French"
+msgstr "Französisch"
+
+msgid "German"
+msgstr "Deutsch"
+
+msgid "Greek"
+msgstr "Griechisch"
+
+msgid "Italian"
+msgstr "Italienisch"
+
+msgid "Multi"
+msgstr "Mehrsprachig"
+
+msgid "Polish"
+msgstr "Polnisch"
+
+msgid "Spanish"
+msgstr "Spanisch"
+
+msgid "Swedish"
+msgstr "Schwedisch"
+
+msgid "None of your files match the unticked filters."
+msgstr "Keine deiner Dateien passt zu den abgewählten Filtern."
+
+msgid "Move {n} file(s) to the trash?"
+msgstr "{n} Datei(en) in den Papierkorb verschieben?"
+
+msgid "and {n} more"
+msgstr "und {n} weitere"
+
+msgid "These files in your library match the filters you unticked. They go to the trash, so you can restore them from there."
+msgstr "Diese Dateien deiner Bibliothek passen zu den abgewählten Filtern. Sie kommen in den Papierkorb und lassen sich von dort wiederherstellen."
+
+msgid "Move to trash"
+msgstr "In den Papierkorb"
+
+msgid "{n} file(s) moved to the trash."
+msgstr "{n} Datei(en) in den Papierkorb verschoben."
+
+msgid "Could not move:"
+msgstr "Verschieben nicht möglich:"
+
+msgid "Move files hidden by the filter to the trash…"
+msgstr "Vom Filter ausgeblendete Dateien in den Papierkorb…"
+
+msgid "Installs Amiberry (AppImage) in a hidden .amiberry folder inside your first game folder."
+msgstr "Installiert Amiberry (AppImage) in einem versteckten Ordner .amiberry im ersten Spieleordner."
+
+msgid "A clean-room Amiga game launcher that starts games in Amiberry (AppImage)."
+msgstr "Ein von Grund auf neu geschriebener Amiga-Spielestarter, der Spiele in Amiberry (AppImage) startet."
+
+msgid "Denise Station can download Amiberry (AppImage) now."
+msgstr "Denise Station kann Amiberry (AppImage) jetzt herunterladen."
+
+msgid "Use \"Download / update Amiberry\" to install it."
+msgstr "Nutze \"Amiberry herunterladen / aktualisieren\", um es zu installieren."
+
+msgid "empty = the downloaded Amiberry AppImage"
+msgstr "leer = heruntergeladenes Amiberry (AppImage)"
+
+msgid "Check Amiberry"
+msgstr "Amiberry prüfen"
+
+msgid "Amiberry is not installed yet"
+msgstr "Amiberry ist noch nicht installiert"
+
+msgid "Custom launch command: {cmd}"
+msgstr "Eigener Startbefehl: {cmd}"
+
+msgid "Amiberry {tag} is ready. Games start with it from now on.\n\nAmiberry now keeps all its files (ROMs, configurations, savestates) in the hidden .amiberry folder. Copy your Kickstart ROMs to its \"ROMs\" folder (Settings → Open Amiberry data folder)."
+msgstr "Amiberry {tag} ist bereit. Spiele starten ab jetzt damit.\n\nAmiberry hält jetzt alle Dateien (ROMs, Konfigurationen, Spielstände) im versteckten Ordner .amiberry. Kopiere deine Kickstart-ROMs in dessen Ordner \"ROMs\" (Einstellungen → Amiberry-Datenordner öffnen)."
+
+msgid "Game folder"
+msgstr "Spieleordner"
+
+msgid "Setup wizard…"
+msgstr "Einrichtungsassistent…"
+
+msgid "Welcome"
+msgstr "Willkommen"
+
+msgid "Press Download to fetch Amiberry and the WHDLoad boot files."
+msgstr "Drücke Herunterladen, um Amiberry und die WHDLoad-Startdateien zu laden."
+
+msgid "Amiberry"
+msgstr "Amiberry"
+
+msgid "ROMs"
+msgstr "ROMs"
+
+msgid "Scan"
+msgstr "Scan"
+
+msgid "Done"
+msgstr "Fertig"
+
+msgid "This short setup downloads Amiberry (the emulator) and the files it needs, copies your Kickstart ROMs, and opens Amiberry once so that it can find them."
+msgstr "Diese kurze Einrichtung lädt Amiberry (den Emulator) und die nötigen Dateien herunter, kopiert deine Kickstart-ROMs und startet Amiberry einmal, damit er sie findet."
+
+msgid "Kickstart ROMs"
+msgstr "Kickstart-ROMs"
+
+msgid "Amiberry needs Kickstart ROMs you own. Choose the folder that holds them, for example Amiga Forever's Shared/rom folder (rom.key is copied too). You can skip this and import them later in Settings."
+msgstr "Amiberry braucht Kickstart-ROMs, die du besitzt. Wähle den Ordner, in dem sie liegen, z. B. Shared/rom von Amiga Forever (rom.key wird mitkopiert). Du kannst das überspringen und sie später in den Einstellungen importieren."
+
+msgid "Choose folder…"
+msgstr "Ordner wählen…"
+
+msgid "Let Amiberry find its files"
+msgstr "Amiberry seine Dateien finden lassen"
+
+msgid "Press Open Amiberry. In its window open the Paths tab and use the button that rescans the paths and ROMs, then close Amiberry. The wizard continues when Amiberry is closed."
+msgstr "Drücke Amiberry öffnen. Öffne in seinem Fenster den Tab Paths, nutze die Schaltfläche zum Neuscannen der Pfade und ROMs und schließe dann Amiberry. Der Assistent geht weiter, sobald Amiberry geschlossen ist."
+
+msgid "Open Amiberry again"
+msgstr "Amiberry erneut öffnen"
+
+msgid "Amiberry was closed. You can continue."
+msgstr "Amiberry wurde geschlossen. Du kannst weitermachen."
+
+msgid "Amiberry is running…"
+msgstr "Amiberry läuft…"
+
+msgid "All set"
+msgstr "Alles bereit"
+
+msgid "Open the games download window now"
+msgstr "Download-Fenster für Spiele jetzt öffnen"
+
+msgid "Try again"
+msgstr "Erneut versuchen"
+
+msgid "Amiberry is not installed yet - go back and download it first."
+msgstr "Amiberry ist noch nicht installiert – geh zurück und lade es zuerst herunter."
+
+msgid "Your games live in {folder}. Amiberry and its files are kept in the hidden .amiberry folder inside it."
+msgstr "Deine Spiele liegen in {folder}. Amiberry und seine Dateien liegen im versteckten Ordner .amiberry darin."
+
+msgid "Downloading Amiberry… {mb} MB"
+msgstr "Lade Amiberry herunter… {mb} MB"
+
+msgid "Denise Station is ready. Download games with the download button in the title bar, or put your own games into {folder}."
+msgstr "Denise Station ist bereit. Lade Spiele mit der Download-Schaltfläche in der Titelleiste oder lege eigene Spiele in {folder}."
+
+msgid "Amiberry {tag} and the WHDLoad boot files are installed."
+msgstr "Amiberry {tag} und die WHDLoad-Startdateien sind installiert."
+
+msgid "WHDLoad could not be downloaded."
+msgstr "WHDLoad konnte nicht heruntergeladen werden."
+
+msgid "Copied {n} file(s) to {path} ({same} were already there)."
+msgstr "{n} Datei(en) nach {path} kopiert ({same} waren schon da)."
+
+msgid "ROMs found in {path}."
+msgstr "ROMs gefunden in {path}."
+
+msgid "This step is required - do not skip it!"
+msgstr "Dieser Schritt ist erforderlich – nicht überspringen!"
+
+msgid "Without it Amiberry does not know where your ROMs are: games then start with a substitute ROM and close right away."
+msgstr "Ohne ihn weiß Amiberry nicht, wo deine ROMs liegen: Spiele starten dann mit einem Ersatz-ROM und schließen sich sofort."
+
+msgid "1. Press \"Open Amiberry\" below.\n2. On the \"Play\" page, in the \"First-run setup\" section, press \"Rescan ROMs\".\n3. Check that it says \"Kickstart ROMs detected.\"\n4. Press \"Done\", then close Amiberry (Quit).\n\nThe \"Next\" button unlocks when Amiberry is closed."
+msgstr "1. Drücke unten „Amiberry öffnen“.\n2. Drücke auf der Seite „Play“ im Abschnitt „First-run setup“ auf „Rescan ROMs“.\n3. Prüfe, ob „Kickstart ROMs detected.“ angezeigt wird.\n4. Drücke „Done“ und schließe dann Amiberry (Quit).\n\nDie Schaltfläche „Weiter“ wird freigeschaltet, wenn Amiberry geschlossen ist."
+
+msgid "Game repository"
+msgstr "Spiele-Repository"
+
+msgid "Repository"
+msgstr "Repository"
+
+msgid "You can leave this empty and enter the address later, when you first open the download window."
+msgstr "Du kannst das leer lassen und die Adresse später beim ersten Öffnen des Download-Fensters eingeben."
+
+msgid "Buy Amiga Forever"
+msgstr "Amiga Forever kaufen"
+
+msgid "© Elyon"
+msgstr "© Elyon"
+
+msgid "Amiga and Commodore are trademarks of their respective owners. Denise Station is an independent project, not affiliated with them."
+msgstr "Amiga und Commodore sind Marken ihrer jeweiligen Inhaber. Denise Station ist ein unabhängiges Projekt und nicht mit ihnen verbunden."
+
+msgid "More…"
+msgstr "Mehr…"
+
+msgid "Less"
+msgstr "Weniger"
+
+msgid "Score (0–100)"
+msgstr "Wertung (0–100)"
+
+msgid "Graphics"
+msgstr "Grafik"
+
+msgid "Sound"
+msgstr "Sound"
+
+msgid "Gameplay"
+msgstr "Spielbarkeit"
+
+msgid "Atmosphere"
+msgstr "Atmosphäre"
+
+msgid "Magazine-style score in percent, shown under the cover. 0 = no score."
+msgstr "Wertung in Prozent im Stil der Spielemagazine, unter dem Cover angezeigt. 0 = keine Wertung."
+
+msgid "Amiga preset"
+msgstr "Amiga-Voreinstellung"
+
+msgid "None (Amiberry default)"
+msgstr "Keine (Amiberry-Standard)"
+
+msgid "Amiga model for this system (adds --model to the extra arguments)."
+msgstr "Amiga-Modell für dieses System (fügt --model zu den zusätzlichen Argumenten hinzu)."
+
+msgid "Export .desktop shortcut…"
+msgstr ".desktop-Verknüpfung exportieren…"
+
+msgid "Save the shortcut in this folder"
+msgstr "Verknüpfung in diesem Ordner speichern"
+
+msgid "Could not save"
+msgstr "Speichern nicht möglich"
+
+msgid "Shortcut saved: {path}"
+msgstr "Verknüpfung gespeichert: {path}"
+
+msgid "Added to the application menu: {path}"
+msgstr "Zum Anwendungsmenü hinzugefügt: {path}"
+
+msgid "Remove .desktop shortcut"
+msgstr ".desktop-Verknüpfung entfernen"
+
+msgid "Shortcut removed from the application menu."
+msgstr "Verknüpfung aus dem Anwendungsmenü entfernt."
+
+msgid "Could not remove"
+msgstr "Entfernen nicht möglich"
+
+msgid "Cover"
+msgstr "Cover"
+
+msgid "Thanks to"
+msgstr "Dank an"
+
+msgid "Amiberry website"
+msgstr "Amiberry-Webseite"
